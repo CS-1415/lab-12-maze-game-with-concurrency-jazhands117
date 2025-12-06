@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-12-maze-game-with-concurrency-jazhands117")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e304cc9a4599c6412d1bec9cb38670731f6911")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b141fdaac017fb3377f61f500f74d3c0c1897f06")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-12-maze-game-with-concurrency-jazhands117")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-12-maze-game-with-concurrency-jazhands117")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
