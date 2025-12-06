@@ -1,0 +1,15 @@
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\bin\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.exe
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\bin\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.deps.json
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\bin\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.runtimeconfig.json
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\bin\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.dll
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\bin\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.pdb
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.AssemblyInfoInputs.cache
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.AssemblyInfo.cs
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.sourcelink.json
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.dll
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\refint\lab-12-maze-game-with-concurrency-jazhands117.dll
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.pdb
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\lab-12-maze-game-with-concurrency-jazhands117.genruntimeconfig.cache
+C:\Users\Jasmine Johnson\my-code-dir\lab-12-maze-game-with-concurrency-jazhands117\obj\Debug\net8.0\ref\lab-12-maze-game-with-concurrency-jazhands117.dll
